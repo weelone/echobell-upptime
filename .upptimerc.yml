@@ -18,10 +18,10 @@ status-website:
   introTitle: "[**Echobell**](https://echobell.one) Status Page"
   introMessage: "Monitoring the status of [**Echobell**](https://echobell.one) services."
   navbar:
-    - title: Status
-      href: /
     - title: Echobell
       href: https://echobell.one
+    - title: Status
+      href: /
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
