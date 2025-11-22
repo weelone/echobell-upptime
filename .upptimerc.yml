@@ -13,7 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.echobell.one
   # baseUrl: /your-repo-name
-  logoUrl: https://cdn.echobell.one/images/branded-logo.svg
+  logoUrl: https://cdn.echobell.one/images/logo.svg
   name: Echobell Status
   introTitle: "[**Echobell**](https://echobell.one) Status Page"
   introMessage: "Monitoring the status of [**Echobell**](https://echobell.one) services."
