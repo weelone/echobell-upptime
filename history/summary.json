@@ -22,7 +22,7 @@
     "url": "https://echobell.one",
     "icon": "https://icons.duckduckgo.com/ip3/echobell.one.ico",
     "slug": "echobell-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 1790,
     "timeMonth": 1465,
     "timeYear": 1323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-12": 0
+    }
   }
 ]
