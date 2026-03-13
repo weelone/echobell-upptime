@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 544,
-    "timeDay": 386,
-    "timeWeek": 629,
-    "timeMonth": 581,
-    "timeYear": 544,
+    "time": 542,
+    "timeDay": 317,
+    "timeWeek": 528,
+    "timeMonth": 572,
+    "timeYear": 542,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/echobell.one.ico",
     "slug": "echobell-website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.61%",
+    "uptimeDay": "56.65%",
+    "uptimeWeek": "93.81%",
+    "uptimeMonth": "98.58%",
+    "uptimeYear": "99.61%",
     "time": 1323,
-    "timeDay": 1891,
-    "timeWeek": 1790,
-    "timeMonth": 1465,
+    "timeDay": 0,
+    "timeWeek": 1817,
+    "timeMonth": 1470,
     "timeYear": 1323,
     "dailyMinutesDown": {
-      "2026-03-12": 0
+      "2026-03-13": 159,
+      "2026-03-12": 465
     }
   }
 ]
